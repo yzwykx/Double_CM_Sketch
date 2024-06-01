@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\codeworking\dmcpp\PeriodicSketch\PeriodicSketch-main\CMakeFiles\1a758050a6fd69c17791283ad24f3bd4\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1C138F32-0C42-3C99-BF1F-E482FA1FD206}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

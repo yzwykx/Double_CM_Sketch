@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\codeworking\dmcpp\PeriodicSketch\PeriodicSketch-main\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\codeworking\dmcpp\PeriodicSketch\PeriodicSketch-main\Algorithm\Abstract.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\codeworking\dmcpp\PeriodicSketch\PeriodicSketch-main\Algorithm\Baseline.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\codeworking\dmcpp\PeriodicSketch\PeriodicSketch-main\Algorithm\Ours.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\codeworking\dmcpp\PeriodicSketch\PeriodicSketch-main\common\BitMap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\codeworking\dmcpp\PeriodicSketch\PeriodicSketch-main\common\CuckooMap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\codeworking\dmcpp\PeriodicSketch\PeriodicSketch-main\common\hash.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\codeworking\dmcpp\PeriodicSketch\PeriodicSketch-main\common\Heap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\codeworking\dmcpp\PeriodicSketch\PeriodicSketch-main\common\MMap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\codeworking\dmcpp\PeriodicSketch\PeriodicSketch-main\common\StreamSummary.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\codeworking\dmcpp\PeriodicSketch\PeriodicSketch-main\common\Util.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\codeworking\dmcpp\PeriodicSketch\PeriodicSketch-main\benchmark.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\codeworking\dmcpp\PeriodicSketch\PeriodicSketch-main\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{845A27B5-3561-3180-930B-85C624942752}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{926B4E90-5676-37AD-BF73-9135591AB6DC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

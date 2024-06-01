@@ -1,0 +1,3 @@
+D:/codeworking/dmcpp/PeriodicSketch/PeriodicSketch-main/CMakeFiles/Periodic.dir
+D:/codeworking/dmcpp/PeriodicSketch/PeriodicSketch-main/CMakeFiles/ALL_BUILD.dir
+D:/codeworking/dmcpp/PeriodicSketch/PeriodicSketch-main/CMakeFiles/ZERO_CHECK.dir
